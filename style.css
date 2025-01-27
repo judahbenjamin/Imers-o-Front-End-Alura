@@ -49,3 +49,38 @@ h1 {
     font-size: 14px;
     font-family: "DM Sans", sans-serif;
 }
+
+.biblioteca {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    padding: 12px;
+    width: 300px;
+}
+
+.biblioteca_nav {
+    background-color: #121212;
+    border-radius: 8px;
+    padding: 16px 0 0 16px;
+    margin-top: 175px;
+    height: 40px;
+}
+
+.biblioteca nav ul {
+    margin-top: 5px;
+    padding: 0 20px 10px 20px;
+}
+
+.biblioteca nav ul li a {
+    color: #b3b3b3;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: "DM Sans", sans-serif;
+}
+
+.biblioteca .plus {
+    margin-left: 230px;
+    margin-top: -16px;
+}
